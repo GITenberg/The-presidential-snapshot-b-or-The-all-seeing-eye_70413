@@ -1,0 +1,32 @@
+_repo: The-presidential-snapshot-b-or-The-all-seeing-eye_70413
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lebhar, Bertram
+    gutenberg_agent_id: '54586'
+    url: http://www.gutenberg.org/2009/agents/54586
+description: ''
+gutenberg_issued: '2023-03-30'
+identifiers:
+  gutenberg: '70413'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:762166
+pgterms:marc905: 20221117055558lebhar
+pgterms:marc906: '1914'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood,and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aUnited States :$bStreet & Smith, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The adventure library, no. 69
+subjects:
+- !lcsh 'Dime novels'
+- !lcsh 'Political prisoners -- Fiction'
+- !lcsh 'Americans -- South America -- Fiction'
+- !lcsh 'Photographers -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The presidential snapshot : $b or, The all-seeing eye'
+url: http://www.gutenberg.org/ebooks/70413
