@@ -1,11 +1,16 @@
 _repo: The-presidential-snapshot-b-or-The-all-seeing-eye_70413
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70413-h/images/cover.jpg
 creator:
   author:
     agent_name: Lebhar, Bertram
     gutenberg_agent_id: '54586'
     url: http://www.gutenberg.org/2009/agents/54586
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70413#The-presidential-snapshot-b-or-The-all-seeing-eye
 gutenberg_issued: '2023-03-30'
 identifiers:
   gutenberg: '70413'
